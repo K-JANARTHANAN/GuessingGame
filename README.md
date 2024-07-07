@@ -2,4 +2,4 @@
 # Random class
 # Scanner class
 # Conditions
-# score
+# Score
